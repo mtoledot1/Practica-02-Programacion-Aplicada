@@ -1,1 +1,1 @@
-# Practica-de-laboratorio-04-Agenda-Telefonica-Interfaz-grafica-
+# Practica-02-Programacion-Aplicada
