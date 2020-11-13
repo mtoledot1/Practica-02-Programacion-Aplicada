@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/vista/VentanaGestionTelefono.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/vista/VentanaPrincipal.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/vista/VentanaBuscarTelefono.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/vista/VentanaIniciarSesion.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/vista/VentanaGestionPersona.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/modelo/Telefono.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/controlador/ControladorPersona.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/modelo/Persona.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/controlador/AbstractControladores.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/vista/VentanaRegistrarPersona.java</file>
+            <file>file:/home/tano/NetBeansProjects/AgendaStreams/src/ec/edu/ups/controlador/ControladorTelefono.java</file>
+        </group>
+    </open-files>
+</project-private>
